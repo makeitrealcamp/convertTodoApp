@@ -61,9 +61,9 @@ si todo salio bien deberas ver que en el emulador sale la pantalla de bienvenida
 
 Para completar este reto vas a tener que hacer varios cambios al codigo que ya te proporcionamos, esta es una lista de las posibles cosas que vas a tener que cambiar:
 
-- Todos los tags nativos de HTML tienen que ser cambiados por componentes Nativos a mobiles. EJ: <div> -> <View>
+- Todos los tags nativos de HTML tienen que ser cambiados por componentes Nativos a mobiles. EJ: `<div> -> <View>`
 
-- Los eventos en react funcionan diferente y tienen nombres diferentes. EJ: onClick -> onPress
+- Los eventos en react funcionan diferente y tienen nombres diferentes. EJ: `onClick -> onPress`
 
 - Ya no existe ReactDOM por lo cual la forma de montar en componente root de la aplicacion es diferente.
 
